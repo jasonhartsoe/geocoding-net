@@ -2,7 +2,7 @@
 
 = How to Build from Source =
 
-Checkout the code following the instructions on the "Source" tab.
+Checkout the code following the instructions on the [http://code.google.com/p/geocoding-net/source/checkout Source tab].
 
 In order to compile the solution in Visual Studio, you must first run the build in MSBuild. The build process generates some files that are needed to compile in Visual Studio.
 
