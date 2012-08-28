@@ -1,5 +1,0 @@
-#summary Help write some documentation
-
-= Want to Contribute? =
-
-Do you feel the urge to contribute to an open source project, but don't know how? You can help out here by writing some documentation!
